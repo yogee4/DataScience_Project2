@@ -1,6 +1,6 @@
 # Data Science Project: Time Series Forecasting
 
-![](https://github.com/yogee4/DataScience_Project2/blob/main/logo.jpg)
+![](https://github.com/yogee4/DataScience_Project2/blob/main/logo1.png)
 
 ## Introduction
 
