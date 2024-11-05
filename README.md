@@ -2,6 +2,10 @@
 
 ![](https://github.com/yogee4/DataScience_Project2/blob/main/logo1.png)
 
+## What is Time Series Forecasting?
+
+Time series forecasting is a technique used in data science to predict future values of a time-stamped variable based on its past behavior. It involves analyzing historical data to identify patterns, trends, and seasonal fluctuations, and using this information to make predictions about future values. Time series forecasting is commonly used in domains such as finance, weather forecasting, and supply chain management.
+
 ## Introduction
 
 This project focuses on time series forecasting to predict temperature trends using historical climate data. Accurate temperature forecasting is crucial for various sectors such as agriculture, energy, and disaster management. The goal is to utilize the Jena Climate dataset to train machine learning models that predict future temperatures based on past climate observations.
